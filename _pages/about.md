@@ -2,24 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in <a href='https://minds.qmul.ac.uk'>MInDS</a> Group, QMUL
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: left
+  image: profile photo.jpg
+  image_circular: False # crops the image to make it circular
 
-news: true  # includes a list of news items
+news: False  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm a PhD student from the <a href='https://minds.qmul.ac.uk'>MInDS</a> group in QMUL. I'm under the supervision of <a href='http://constantinou.info'>Anthony C. Constantinou</a>. My current research interests cover causal discovery under the noisy data and explainable AI. I obtained my master and bachelor degree from the University of Edinburgh and Beijing University respectively. Below are some of the papers published during my PhD life.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
