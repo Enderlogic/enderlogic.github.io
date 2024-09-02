@@ -9,6 +9,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Doctor of Philosophy
+      institution: Queen Mary University of London, London, Unitied Kingdom
+      year: 2023
+      description:
+        - Bayesian Network Structure Learning under Imperfect Data
     - title: Master of Science
       institution: University of Edinburgh, Edinburgh, United Kingdom
       year: 2018
