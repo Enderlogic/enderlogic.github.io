@@ -12,15 +12,17 @@
       "name": "Maria Secrier's Group, University College London",
       "position": "Research Fellow",
       "url": "https://secrierlab.github.io/team/maria-secrier/",
+      "location": "London, United Kingdom",
       "startDate": "2026-05-01",
       "endDate": "",
-      "summary": "Research in computational biology and multi-omics data analysis.",
-      "highlights": ["Multi-omics data integration", "Machine learning", "Computational biology"]
+      "summary": "Research in computational biology and ecological statistics.",
+      "highlights": ["Computational biology", "Ecological statistics"]
     },
     {
       "name": "Department of Computer Science, Hong Kong Baptist University",
       "position": "Postdoctoral Researcher in AI for Science",
       "url": "https://www.comp.hkbu.edu.hk/",
+      "location": "Hong Kong, China",
       "startDate": "2024-02-01",
       "endDate": "2026-02-01",
       "summary": "I designed interpretable spatial multi-omics data integration algorithms that disentangle shared and modality-specific information.",
@@ -36,6 +38,24 @@
       "startDate": "2019-09-01",
       "endDate": "2024-01-01",
       "courses": ["Thesis: Bayesian network structure learning under imperfect data"]
+    },
+    {
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, United Kingdom",
+      "area": "Artificial Intelligence",
+      "studyType": "Master's degree",
+      "startDate": "2017-09-01",
+      "endDate": "2018-11-01",
+      "courses": []
+    },
+    {
+      "institution": "Beihang University",
+      "location": "Beijing, China",
+      "area": "Optoelectronic Information Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-01",
+      "courses": []
     }
   ],
   "awards": [
