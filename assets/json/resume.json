@@ -9,12 +9,21 @@
   },
   "work": [
     {
+      "name": "Maria Secrier's Group, University College London",
+      "position": "Research Fellow",
+      "url": "https://secrierlab.github.io/team/maria-secrier/",
+      "startDate": "2026-05-01",
+      "endDate": "",
+      "summary": "Research in computational biology and multi-omics data analysis.",
+      "highlights": ["Multi-omics data integration", "Machine learning", "Computational biology"]
+    },
+    {
       "name": "Department of Computer Science, Hong Kong Baptist University",
       "position": "Postdoctoral Researcher in AI for Science",
-      "url": "https://example.com",
+      "url": "https://www.comp.hkbu.edu.hk/",
       "startDate": "2024-02-01",
-      "endDate": "Now",
-      "summary": "I designed interpretable spatial multi-omics data integration algorithm that aims to disentangle the shared and private information for each modality.",
+      "endDate": "2026-02-01",
+      "summary": "I designed interpretable spatial multi-omics data integration algorithms that disentangle shared and modality-specific information.",
       "highlights": ["Spatial multi-omics", "Data integration", "Disentangled representation learning"]
     }
   ],
