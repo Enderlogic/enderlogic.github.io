@@ -11,9 +11,12 @@
 - title: Employment
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: Maria Secrier's Group, University College London
+      year: 2026-05 - Now
     - title: Postdoc Researcher in Spatial multi-omics integration
       institution: Department of Computer Science, Hong Kong Baptist University
-      year: 2024-02 - Now
+      year: 2024-02 - 2026-02
       description:
         - Spatial multi-omics.
         - Disentangled representation learning.
